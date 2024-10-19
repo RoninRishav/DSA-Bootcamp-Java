@@ -35,9 +35,9 @@ all. (Done)
 1. Factorial Program In Java (Done)
 2. Calculate Electricity Bill (Done)
 3. Calculate Average Of N Numbers (Done)
-4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points 
-6. Calculate Commission Percentage
+4. Calculate Discount Of Product (Done)
+5. Calculate Distance Between Two Points (Done)
+6. Calculate Commission Percentage (Done)
 7. Power In Java
 8. Calculate Depreciation of Value
 9. Calculate Batting Average
